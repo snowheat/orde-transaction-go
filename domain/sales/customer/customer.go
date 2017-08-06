@@ -1,0 +1,5 @@
+package DmCustomer
+
+func Get() {
+
+}

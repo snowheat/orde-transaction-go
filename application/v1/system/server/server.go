@@ -7,7 +7,7 @@ import (
 	"github.com/buaazp/fasthttprouter"
 	"github.com/valyala/fasthttp"
 
-	SDConfig "github.com/snowheat/order-transaction-go/v1/config"
+	SDConfig "github.com/snowheat/order-transaction-go/application/v1/config"
 )
 
 //Set ...
